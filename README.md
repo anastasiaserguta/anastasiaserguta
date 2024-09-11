@@ -1,4 +1,13 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU2M3MxczVybXB2YXhxZnQyZXYzYzZ6OXBxZ3l1NWpwZ2RwZjJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="100"/>
+
+  <div id="badges">
+    <a href='https://www.linkedin.com/in/anastasia-serguta/'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href='https://www.instagram.com/anastasia_serguta/'><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+    <a href='https://t.me/anastasia_serguta'><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  </div>
+</div>
+
 
 <!--
 **anastasiaserguta/anastasiaserguta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

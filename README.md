@@ -1,3 +1,5 @@
+<h1>Hi there! :wave:</h1>
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU2M3MxczVybXB2YXhxZnQyZXYzYzZ6OXBxZ3l1NWpwZ2RwZjJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="100"/>
 
@@ -8,18 +10,15 @@
   </div>
 </div>
 
+About me:
+- 🔭 I’m a junior Python developer.
+- 🌱 I’m currently immersed in the study of multithreading and FastAPI.
+- 📫 How to reach me: In addition to the links above, you can email me - anastasia.serguta@gmail.com
+- 😄 Fun fact: The profile picture was drawn by me in Paint.
+
 
 <!--
 **anastasiaserguta/anastasiaserguta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

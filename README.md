@@ -7,16 +7,16 @@
     <a href='https://www.linkedin.com/in/anastasia-serguta/'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href='https://www.instagram.com/anastasia_serguta/'><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
     <a href='https://t.me/anastasia_serguta'><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+    <a href='mailto:anastasia.serguta@gmail.com'><img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="email Badge"/></a>
   </div>
 </div>
 
 About me:
 - 🔭 I’m a junior Python developer.
 - 🌱 I’m currently immersed in the study of multithreading and FastAPI.
-- 📫 How to reach me: In addition to the links above, you can email me - anastasia.serguta@gmail.com
 - 😄 Fun fact: The profile picture was drawn by me in Paint.
 
-
+<!--- 📫 How to reach me: In addition to the links above, you can email me - anastasia.serguta@gmail.com-->
 <!--
 **anastasiaserguta/anastasiaserguta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

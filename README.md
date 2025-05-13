@@ -18,7 +18,7 @@ About me:
 ---
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiaserguta&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiaserguta&hide_progress=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 ### :fire: My Stats :

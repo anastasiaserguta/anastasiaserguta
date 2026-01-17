@@ -11,7 +11,7 @@
 </div>
 
 About me:
-- 🔭 I’m a junior Tact / Python developer.
+- 🔭 I’m a Tact / Python developer.
 - 🌱 I’m currently immersed in the study of smart contracts and different python frameworks.
 - 📫 How to reach me: In addition to the links above, you can email me - anastasia.serguta@gmail.com
 - 😄 Fun fact: The profile picture was drawn by me in Paint.

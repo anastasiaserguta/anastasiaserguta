@@ -15,12 +15,15 @@ About me:
 - 🌱 I’m currently immersed in the study of smart contracts and different python frameworks.
 - 📫 How to reach me: In addition to the links above, you can email me - anastasia.serguta@gmail.com
 - 😄 Fun fact: The profile picture was drawn by me in Paint.
+<!--
 ---
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiaserguta&hide_progress=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nothehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nothehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+-->
 <!--
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anastasiaserguta&theme=buefy)](https://git.io/streak-stats)
